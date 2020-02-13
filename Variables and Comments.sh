@@ -6,4 +6,5 @@ Variables: are container which stores some data inside them.
            Two types of variables :
                                   1. system varibles --> created and maintained by os system ---> pre-defind varibles --> define varibales in capital latters.
                                   2. userdefind varibles
+--> variable name should not start with a number. 
                                   
